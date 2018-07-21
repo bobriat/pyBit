@@ -1,0 +1,8 @@
+click
+
+pycoin
+
+flask
+flask_cors
+requests
+pycrypto
